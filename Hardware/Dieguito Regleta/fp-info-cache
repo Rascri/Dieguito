@@ -1,4 +1,4 @@
-27105310730603523
+27108828932311456
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -72148,6 +72148,20 @@ resistor array
 0
 16
 8
+Library
+diego_balon
+
+
+0
+0
+0
+Library
+firma_diego
+
+
+0
+0
+0
 Library1
 qre1113_fuji_morro2
 
