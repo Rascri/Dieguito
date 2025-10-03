@@ -5526,6 +5526,16 @@
 	)
 	(wire
 		(pts
+			(xy 85.09 96.52) (xy 86.36 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c340d3e3-1c81-4013-9c40-d337c4ad17e3")
+	)
+	(wire
+		(pts
 			(xy 200.66 35.56) (xy 200.66 38.1)
 		)
 		(stroke
@@ -6486,7 +6496,7 @@
 	)
 	(global_label "LED"
 		(shape input)
-		(at 86.36 96.52 180)
+		(at 85.09 96.52 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6496,7 +6506,7 @@
 		)
 		(uuid "f0f88ee5-f1b3-4f6e-8eb4-cc6e818bd245")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 79.9277 96.52 0)
+			(at 78.6577 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
